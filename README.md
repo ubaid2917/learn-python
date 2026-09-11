@@ -33,6 +33,13 @@ Python/
 │
 └── variables/              # Topic: Python Variables & Basics
     └── main.py             # Practice script (Comments, Hello World, Variables)
+├── variables/              # Topic: Python Variables & Basics
+│   ├── README.md           # Variables & naming conventions guide
+│   └── main.py             # Practice script
+│
+└── data_types/             # Topic: Python Data Types
+    ├── README.md           # Data types & type casting guide
+    └── main.py             # Practice script
 ```
 
 ---
@@ -43,6 +50,7 @@ Python/
   - [x] Hello World & Comments ([variables/main.py](file:///c:/Users/Masjidal2026/Desktop/Learning-roadmaps/Python/variables/main.py))
   - [x] Variables & Naming Conventions ([variables/README.md](file:///c:/Users/Masjidal2026/Desktop/Learning-roadmaps/Python/variables/README.md))
   - [ ] User Input & Type Casting
+  - [x] Data Types & Type Casting ([data_types/README.md](file:///c:/Users/Masjidal2026/Desktop/Learning-roadmaps/Python/data_types/README.md))
 - [ ] **02. Control Flow & Operators**
   - [ ] Arithmetic & Logical Operators
   - [ ] Conditional Statements (`if`, `elif`, `else`)
