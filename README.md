@@ -41,7 +41,7 @@ Python/
 
 - [x] **01. Python Basics**
   - [x] Hello World & Comments ([variables/main.py](file:///c:/Users/Masjidal2026/Desktop/Learning-roadmaps/Python/variables/main.py))
-  - [ ] Variables & Data Types (Integers, Floats, Strings, Booleans)
+  - [x] Variables & Naming Conventions ([variables/README.md](file:///c:/Users/Masjidal2026/Desktop/Learning-roadmaps/Python/variables/README.md))
   - [ ] User Input & Type Casting
 - [ ] **02. Control Flow & Operators**
   - [ ] Arithmetic & Logical Operators
